@@ -22,6 +22,16 @@ I'm Tin-Hoang, an AI researcher at Cinnamon AI, Vietnam 🇻🇳.
 - MLOps
 - Cooking
 
+# 💸 Pay me back:
+- **Techcombank:**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Account Holder: Hoang Huu Tin
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ID: 19033262517019
+
+- **MOMO:** 0964 050 092
+- **Cash:** SG first floor (plus 10% fee)
+
 # 📃 Publication:
 
 # 📃 Patent:
@@ -32,12 +42,3 @@ I'm Tin-Hoang, an AI researcher at Cinnamon AI, Vietnam 🇻🇳.
 - **Phone:** +84 964 050 092
 - **Github:** Tin-Hoang
 
-# 💸 Pay me back:
-- **Techcombank:**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Account Holder: Hoang Huu Tin
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ID: 19033262517019
-
-- **MOMO:** 0964 050 092
-- **Cash:** SG first floor (plus 10% fee)
