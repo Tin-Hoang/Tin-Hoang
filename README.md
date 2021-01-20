@@ -29,16 +29,14 @@ I'm Tin-Hoang, an AI researcher at Cinnamon AI, Vietnam 🇻🇳.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ID: 19033262517019
 
-- **MOMO:** 0964 050 092
+- **MOMO:** My phone number
 - **Cash:** SG first floor (plus 10% fee)
 
-# 📃 Publication:
+# 📃 Publications:
 
-# 📃 Patent:
+# 📃 Patents:
 
 # 📫 How to reach me:
 - **Email:** tin@cinnamon.is
 - **Slack:** @tin
-- **Phone:** +84 964 050 092
 - **Github:** Tin-Hoang
-
