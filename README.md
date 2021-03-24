@@ -23,6 +23,11 @@ I'm Tin-Hoang, an AI researcher at Cinnamon AI, Vietnam 🇻🇳.
 - Cooking
 
 # 📃 Publications:
+<a id="1">[1]</a> 
+**Huu Tin Hoang**, Chun-Jen Peng, Hung Tran, Hung Le, Huy Hoang Nguyen.
+"LODENet: A Holistic Approach to Offline Handwritten Chinese and Japanese Text Line Recognition".
+ICPR2020.
+
 
 # 📃 Patents:
 
