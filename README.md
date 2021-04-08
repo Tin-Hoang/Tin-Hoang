@@ -30,6 +30,9 @@ ICPR2020.
 
 
 # 📃 Patents:
+<a id="1">[1]</a> Chun-Jen Peng, **Huu Tin Hoang**, Hung Tran, Huy Hoang Nguyen.
+"TEXT LINE RECOGNITION APPARATUS, TEXT LINE RECOGNITION METHOD AND PROGRAM", Japan Patent Office, Registration Code: CIN190403 (submitted)
+
 
 # 📫 How to reach me:
 - **Email:** tin@cinnamon.is
