@@ -36,5 +36,4 @@ ICPR2020.
 
 # 📫 How to reach me:
 - **Email:** tin@cinnamon.is
-- **Slack:** @tin
 - **Github:** Tin-Hoang
