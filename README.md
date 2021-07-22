@@ -37,3 +37,7 @@ ICPR2020.
 # 📫 How to reach me:
 - **Email:** tin@cinnamon.is
 - **Github:** Tin-Hoang
+
+# 📊 GitHub Metrics:
+
+![Metrics](https://github.com/Tin-Hoang/Tin-Hoang/blob/main/github-metrics.svg)
