@@ -2720,7 +2720,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Netflix/metaflow</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3400,7 +3400,7 @@
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 20 Dec 2021, 21:02:18 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.16.0</span>
+                    <span>Last updated 20 Dec 2021, 22:01:58 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.16.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
