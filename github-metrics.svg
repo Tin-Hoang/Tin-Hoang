@@ -2731,7 +2731,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>argoproj/argo-workflows</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3415,7 +3415,7 @@
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 24 Dec 2021, 05:01:52 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.16.0</span>
+                    <span>Last updated 24 Dec 2021, 06:01:58 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.16.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
