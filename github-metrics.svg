@@ -1467,7 +1467,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mgth/LittleBigMouse</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DPI Aware mouse move across screens</div>
@@ -2179,7 +2179,7 @@
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 10 Jan 2022, 00:14:05 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.17.0</span>
+                    <span>Last updated 10 Jan 2022, 01:02:15 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.17.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
