@@ -1514,7 +1514,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>argoproj/argo-workflows</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Workflow engine for Kubernetes</div>
@@ -2173,7 +2173,7 @@
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 17 Jan 2022, 05:02:06 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.17.0</span>
+                    <span>Last updated 17 Jan 2022, 06:01:54 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.17.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
