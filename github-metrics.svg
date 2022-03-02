@@ -411,13 +411,13 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 78.82460973370064%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">99%</span>
+                            <div class="bar" style="width: 78.4887839433294%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">98%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 1.1753902662993572%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">1%</span>
+                            <div class="bar" style="width: 1.511216056670602%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">2%</span>
                         </div>
                     </div>
                 </section>
@@ -2235,7 +2235,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2022, 12:02:18 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 2 Mar 2022, 13:07:30 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
