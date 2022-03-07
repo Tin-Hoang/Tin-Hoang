@@ -1484,7 +1484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PrefectHQ/prefect</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The easiest way to automate your data</div>
@@ -1537,7 +1537,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zenml-io/zenml</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ZenML 🙏: MLOps framework to create reproducible pipelines.</div>
@@ -2222,7 +2222,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Mar 2022, 11:03:35 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 7 Mar 2022, 12:02:26 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
