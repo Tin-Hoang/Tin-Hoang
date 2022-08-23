@@ -1487,7 +1487,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zhongyang219/TrafficMonitor</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。</div>
@@ -2231,7 +2231,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Aug 2022, 00:11:46 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 24 Aug 2022, 01:07:16 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
