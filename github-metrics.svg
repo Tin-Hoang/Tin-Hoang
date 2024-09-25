@@ -1401,7 +1401,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/LoRA</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"</div>
@@ -1963,7 +1963,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.54m out of 218m repositories</span>
+                                    <span class="gh">ranked 1.54m out of 217m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 15 stars</div>
                             </div>
@@ -2178,7 +2178,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Sept 2024, 11:01:08 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Sept 2024, 12:00:59 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
