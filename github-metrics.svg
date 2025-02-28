@@ -1284,7 +1284,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huggingface/diffusers</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.</div>
@@ -1337,7 +1337,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CompVis/stable-diffusion</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A latent text-to-image diffusion model</div>
@@ -1840,7 +1840,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.38m out of 228m repositories</span>
+                                    <span class="gh">ranked 1.38m out of 235m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 19 stars</div>
                             </div>
@@ -2055,7 +2055,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Mar 2025, 02:01:35 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Mar 2025, 03:01:09 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
