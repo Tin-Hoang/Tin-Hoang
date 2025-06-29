@@ -312,7 +312,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Using the internet without IPv4 connectivity</div>
+                                <div class="title">Using the Internet without IPv4 connectivity</div>
                                 <div class="date">29 Jun 2025</div>
                             </div>
                         </div>
@@ -339,8 +339,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sequence and first differences together list all positive numbers exactly once</div>
-                                <div class="date">25 Jun 2025</div>
+                                <div class="title">Bloom Filters by Example</div>
+                                <div class="date">29 Jun 2025</div>
                             </div>
                         </div>
                     </section>
@@ -2589,7 +2589,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jun 2025, 20:08:14 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jun 2025, 21:01:02 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
