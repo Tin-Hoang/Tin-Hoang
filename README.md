@@ -37,7 +37,7 @@ ICPR2020.
 
 <p align="center">
   <a href="http://www.credly.com/badges/2da7142c-2d14-4886-a147-949464a3325c">
-    <img src="docs/aws_sap.png" alt="AWS Certified Solutions Architect – Professional" width="150"/>
+    <img src="docs/aws_sap.png" alt="AWS Certified Solutions Architect – Professional" width="180"/>
   </a>
 </p>
 
