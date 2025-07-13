@@ -15,22 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Tin-Hoang, pursuing MSc at University of Surrey, UK 🇬🇧 | AI researcher at Cinnamon AI, Vietnam 🇻🇳.
+![Profile Views](https://komarev.com/ghpvc/?username=Tin-Hoang&color=blue&abbreviated=true&style=flat)
 
-# 🌱 I’m currently learning:
-- Deep learning
-- MLOps/Cloud-based Solution
-- Cooking
+I'm Tin-Hoang, pursuing MSc at University of Surrey, UK 🇬🇧 | AI researcher at Cinnamon AI, Vietnam 🇻🇳.
 
 # 📃 Publications:
 <a id="1">[1]</a>
 **Huu Tin Hoang**, Chun-Jen Peng, Hung Tran, Hung Le, Huy Hoang Nguyen.
-"LODENet: A Holistic Approach to Offline Handwritten Chinese and Japanese Text Line Recognition".
-ICPR2020.
+"LODENet: A Holistic Approach to Offline Handwritten Chinese and Japanese Text Line Recognition, ICPR2020.
 
 # 📃 Patents:
 <a id="1">[1]</a> Chun-Jen Peng, **Huu Tin Hoang**, Hung Tran, Huy Hoang Nguyen.
-"TEXT LINE RECOGNITION APPARATUS, TEXT LINE RECOGNITION METHOD AND PROGRAM", Japan Patent Office, Registration Code: CIN190403 (submitted)
+"TEXT LINE RECOGNITION APPARATUS, TEXT LINE RECOGNITION METHOD AND PROGRAM", Japan Patent Office, JP-2022160140-A, Filing Date: 06-04-2021.
 
 # 📃 Certificates:
 - AWS Certified Solutions Architect – Professional (SAP-C02), Sep 2023, [badge](http://www.credly.com/badges/2da7142c-2d14-4886-a147-949464a3325c).
@@ -91,7 +87,7 @@ ICPR2020.
 
 # 📫 How to reach me:
 - **Email:** tin.hoang.work@gmail.com
-- **Email:** tin@cinnamon.is (for Cinnamon related)
+- **Email** (for Cinnamon related): tin@cinnamon.is
 - **LinkedIn:** https://www.linkedin.com/in/tin-hoang-ai
 - **W&B:** https://wandb.ai/tin-hoang
 
