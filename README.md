@@ -23,7 +23,7 @@ I'm Tin-Hoang, pursuing MSc at University of Surrey, UK 🇬🇧 | AI researcher
 - Cooking
 
 # 📃 Publications:
-<a id="1">[1]</a> 
+<a id="1">[1]</a>
 **Huu Tin Hoang**, Chun-Jen Peng, Hung Tran, Hung Le, Huy Hoang Nguyen.
 "LODENet: A Holistic Approach to Offline Handwritten Chinese and Japanese Text Line Recognition".
 ICPR2020.
@@ -34,6 +34,12 @@ ICPR2020.
 
 # 📃 Certificates:
 - AWS Certified Solutions Architect – Professional (SAP-C02), Sep 2023, [badge](http://www.credly.com/badges/2da7142c-2d14-4886-a147-949464a3325c).
+
+<p align="center">
+  <a href="http://www.credly.com/badges/2da7142c-2d14-4886-a147-949464a3325c">
+    <img src="docs/aws_sap.png" alt="AWS Certified Solutions Architect – Professional" width="150"/>
+  </a>
+</p>
 
 # 📫 How to reach me:
 - **Email:** tin.hoang.work@gmail.com
