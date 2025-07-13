@@ -41,6 +41,55 @@ ICPR2020.
   </a>
 </p>
 
+# 📃 Open-Source Notable Projects:
+
+<div align="center">
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <a href="https://github.com/Tin-Hoang/humanfaces-diffusion-generation">
+      <img src="docs/Attributes_Diffusion_Pipeline.png" alt="Attributes Diffusion Pipeline" width="300"/>
+    </a>
+    <br>
+    <small><strong>Human Faces Diffusion Generation</strong></small>
+    <br>
+  </div>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <a href="https://github.com/Tin-Hoang/solar-timeseries-forecasting">
+      <img src="docs/solar_models_results.png" alt="GHI Time Series Prediction" width="180"/>
+    </a>
+    <br>
+    <small><strong>GHI Time Series Forecasting</strong></small>
+    <br>
+  </div>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <a href="https://ieeexplore.ieee.org/document/9412161">
+      <img src="docs/lodenet_arch_comparison.png" alt="LODENet paper" width="160" height="200"/>
+    </a>
+    <br>
+    <small><strong>LODENet ICPR2020 paper</strong></small>
+    <br>
+  </div>
+</div>
+
+<div align="center">
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <a href="https://github.com/Flavius1996/Image-Captioning-in-Vietnamese">
+      <img src="docs/vn_image_captioning.png" alt="Vietnamese Image Captioning" width="200"/>
+    </a>
+    <br>
+    <small><strong>Vietnamese Image Captioning</strong></small>
+    <br>
+  </div>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <a href="https://github.com/Flavius1996/VNTS-faster-rcnn">
+      <img src="docs/trafic_signs_faster_rcnn.gif" alt="Traffic Signs Detection" width="300"/>
+    </a>
+    <br>
+    <small><strong>VN Traffic Signs Detection</strong></small>
+    <br>
+  </div>
+</div>
+
+
 # 📫 How to reach me:
 - **Email:** tin.hoang.work@gmail.com
 - **Email:** tin@cinnamon.is (for Cinnamon related)
