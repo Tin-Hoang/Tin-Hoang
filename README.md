@@ -24,11 +24,11 @@ I'm Tin-Hoang, pursuing MSc at University of Surrey, UK 🇬🇧 | AI researcher
 **Huu Tin Hoang**, Chun-Jen Peng, Hung Tran, Hung Le, Huy Hoang Nguyen.
 "LODENet: A Holistic Approach to Offline Handwritten Chinese and Japanese Text Line Recognition, ICPR2020.
 
-# 📃 Patents:
+# ®️ Patents:
 <a id="1">[1]</a> Chun-Jen Peng, **Huu Tin Hoang**, Hung Tran, Huy Hoang Nguyen.
 "TEXT LINE RECOGNITION APPARATUS, TEXT LINE RECOGNITION METHOD AND PROGRAM", Japan Patent Office, JP-2022160140-A, Filing Date: 06-04-2021.
 
-# 📃 Certificates:
+# ✨ Certificates:
 - AWS Certified Solutions Architect – Professional (SAP-C02), Sep 2023, [badge](http://www.credly.com/badges/2da7142c-2d14-4886-a147-949464a3325c).
 
 <p align="center">
@@ -37,7 +37,7 @@ I'm Tin-Hoang, pursuing MSc at University of Surrey, UK 🇬🇧 | AI researcher
   </a>
 </p>
 
-# 📃 Notable Open-Source Projects:
+# ☕ Notable Open-Source Projects:
 
 <table align="center">
   <tr>
