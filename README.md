@@ -42,6 +42,18 @@ I'm Tin-Hoang, pursuing MSc at University of Surrey, UK 🇬🇧 | AI researcher
 <table align="center">
   <tr>
     <td align="center">
+      <a href="https://github.com/Tin-Hoang/federated-learning-medical-ai">
+        <img src="docs/fl-mermaid-flowchart.svg" alt="Federated Learning for Privacy-Preserving Medical AI" width="400"/>
+      </a>
+      <br>
+      <strong>Federated Learning for Privacy-Preserving Medical AI</strong>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center">
       <a href="https://github.com/Tin-Hoang/humanfaces-diffusion-generation">
         <img src="docs/Attributes_Diffusion_Pipeline.png" alt="Attributes Diffusion Pipeline" width="300"/>
       </a>
