@@ -42,8 +42,8 @@ I'm Tin-Hoang, pursuing MSc at University of Surrey, UK 🇬🇧 | AI researcher
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/Tin-Hoang/federated-learning-medical-ai">
-        <img src="docs/fl-mermaid-flowchart.svg" alt="Federated Learning for Privacy-Preserving Medical AI" width="400"/>
+      <a href="https://github.com/Tin-Hoang/fl-adni-classification">
+        <img src="docs/fl-mermaid-flowchart.svg" alt="Federated Learning for Privacy-Preserving Medical AI" width="450"/>
       </a>
       <br>
       <strong>Federated Learning for Privacy-Preserving Medical AI</strong>
