@@ -80,14 +80,14 @@ I'm Tin-Hoang, pursuing MSc at University of Surrey, UK 🇬🇧 | AI researcher
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/Flavius1996/Image-Captioning-in-Vietnamese">
+      <a href="https://github.com/Tin-Hoang/Image-Captioning-in-Vietnamese">
         <img src="docs/vn_image_captioning.png" alt="Vietnamese Image Captioning" width="200"/>
       </a>
       <br>
       <strong>Vietnamese Image Captioning</strong>
     </td>
     <td align="center">
-      <a href="https://github.com/Flavius1996/VNTS-faster-rcnn">
+      <a href="https://github.com/Tin-Hoang/VNTS-faster-rcnn">
         <img src="docs/trafic_signs_faster_rcnn.gif" alt="Traffic Signs Detection" width="300"/>
       </a>
       <br>
