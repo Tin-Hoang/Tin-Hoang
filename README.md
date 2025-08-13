@@ -22,7 +22,11 @@ I'm Tin-Hoang, pursuing MSc at University of Surrey, UK 🇬🇧 | AI researcher
 # 📃 Publications:
 <a id="1">[1]</a>
 **Huu Tin Hoang**, Chun-Jen Peng, Hung Tran, Hung Le, Huy Hoang Nguyen.
-"LODENet: A Holistic Approach to Offline Handwritten Chinese and Japanese Text Line Recognition, ICPR2020.
+"LODENet: A Holistic Approach to Offline Handwritten Chinese and Japanese Text Line Recognition", ICPR2020.
+
+<a id="2">[2]</a>
+Dhruvraj Singh Rawat, Enggen Sherpa, Rishikesan Kirupanantha, **Tin Hoang**.
+"Enhancing Diffusion Face Generation with Contrastive Embeddings and SegFormer Guidance", arXiv preprint 2025 (link TBD).
 
 # ®️ Patents:
 <a id="1">[1]</a> Chun-Jen Peng, **Huu Tin Hoang**, Hung Tran, Huy Hoang Nguyen.
