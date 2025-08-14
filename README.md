@@ -33,6 +33,9 @@ Dhruvraj Singh Rawat, Enggen Sherpa, Rishikesan Kirupanantha, **Tin Hoang**.
 "TEXT LINE RECOGNITION APPARATUS, TEXT LINE RECOGNITION METHOD AND PROGRAM", Japan Patent Office, JP-2022160140-A, Filing Date: 06-04-2021.
 
 # ✨ Certificates:
+
+*(What good is AI without impacting millions of lives?! Hence, AI x Cloud is my second passion .. gonna catch all SA certs!)*
+
 - AWS Certified Solutions Architect – Professional (SAP-C02), Sep 2023, [badge](http://www.credly.com/badges/2da7142c-2d14-4886-a147-949464a3325c).
 
 <p align="center">
