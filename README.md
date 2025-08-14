@@ -26,7 +26,7 @@ I'm Tin-Hoang, pursuing MSc at University of Surrey, UK 🇬🇧 | AI researcher
 
 <a id="2">[2]</a>
 Dhruvraj Singh Rawat, Enggen Sherpa, Rishikesan Kirupanantha, **Tin Hoang**.
-"Enhancing Diffusion Face Generation with Contrastive Embeddings and SegFormer Guidance", arXiv preprint 2025, <a href="https://arxiv.org/pdf/2508.09847">[arXiv/2508.09847]</a>.
+"Enhancing Diffusion Face Generation with Contrastive Embeddings and SegFormer Guidance", arXiv preprint 2025, <a href="https://arxiv.org/abs/2508.09847">[arXiv/2508.09847]</a>.
 
 # ®️ Patents:
 <a id="1">[1]</a> Chun-Jen Peng, **Huu Tin Hoang**, Hung Tran, Huy Hoang Nguyen.
