@@ -22,11 +22,11 @@ I'm Tin-Hoang, pursuing MSc at University of Surrey, UK 🇬🇧 | AI researcher
 # 📃 Publications:
 <a id="1">[1]</a>
 **Huu Tin Hoang**, Chun-Jen Peng, Hung Tran, Hung Le, Huy Hoang Nguyen.
-"LODENet: A Holistic Approach to Offline Handwritten Chinese and Japanese Text Line Recognition", ICPR2020.
+"LODENet: A Holistic Approach to Offline Handwritten Chinese and Japanese Text Line Recognition", ICPR2020, Milan, Italy, <a href="https://ieeexplore.ieee.org/document/9412161">[IEEE Xplore]</a>.
 
 <a id="2">[2]</a>
 Dhruvraj Singh Rawat, Enggen Sherpa, Rishikesan Kirupanantha, **Tin Hoang**.
-"Enhancing Diffusion Face Generation with Contrastive Embeddings and SegFormer Guidance", arXiv preprint 2025, <a href="https://arxiv.org/abs/2508.09847">[arXiv/2508.09847]</a>.
+"Enhancing Diffusion Face Generation with Contrastive Embeddings and SegFormer Guidance", arXiv preprint 2025, <a href="https://arxiv.org/abs/2508.09847">[arXiv:2508.09847]</a>.
 
 # ®️ Patents:
 <a id="1">[1]</a> Chun-Jen Peng, **Huu Tin Hoang**, Hung Tran, Huy Hoang Nguyen.
@@ -41,7 +41,7 @@ Dhruvraj Singh Rawat, Enggen Sherpa, Rishikesan Kirupanantha, **Tin Hoang**.
   </a>
 </p>
 
-# ☕ Notable Open-Source Projects:
+# ☕ Notable Projects:
 
 <table align="center">
   <tr>
@@ -76,7 +76,7 @@ Dhruvraj Singh Rawat, Enggen Sherpa, Rishikesan Kirupanantha, **Tin Hoang**.
         <img src="docs/lodenet_arch_comparison.png" alt="LODENet paper" width="160" height="200"/>
       </a>
       <br>
-      <strong>LODENet ICPR2020 paper</strong>
+      <strong>LODENet: Chinese Handwritten OCR</strong>
     </td>
   </tr>
 </table>
