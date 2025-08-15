@@ -112,4 +112,10 @@ Dhruvraj Singh Rawat, Enggen Sherpa, Rishikesan Kirupanantha, **Tin Hoang**.
 
 # 📊 GitHub Metrics:
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg">
+  <img alt="GitHub Breakout" src="images/breakout-light.svg">
+</picture>
+
 ![Metrics](https://github.com/Tin-Hoang/Tin-Hoang/blob/main/github-metrics.svg)
