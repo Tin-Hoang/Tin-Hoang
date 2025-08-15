@@ -1,14 +1,15 @@
 ### Hi there 👋
 
+I'm Tin-Hoang, pursuing MSc at University of Surrey, UK 🇬🇧 | AI researcher at Cinnamon AI, Vietnam 🇻🇳.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg">
-  <img alt="GitHub Breakout" src="images/breakout-light.svg">
+  <img alt="GitHub Breakout" src="images/breakout-light.svg" width="650">
 </picture>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tin-Hoang&color=blue&abbreviated=true&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Tin-Hoang&color=blue&abbreviated=true&style=flat-square)
 
-I'm Tin-Hoang, pursuing MSc at University of Surrey, UK 🇬🇧 | AI researcher at Cinnamon AI, Vietnam 🇻🇳.
 
 # 📃 Publications:
 <a id="1">[1]</a>
