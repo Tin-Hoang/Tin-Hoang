@@ -54,14 +54,14 @@ jobs:
           # plugin_languages_threshold: 0%
 
           # GitHub topics
-          plugin_topics: yes
-          plugin_topics_sort: stars    # Sort by most starred topics
-          plugin_topics_mode: icons # Display icons instead of labels
+          # plugin_topics: yes
+          # plugin_topics_sort: stars    # Sort by most starred topics
+          # plugin_topics_mode: icons # Display icons instead of labels
 
           # RSS news
-          plugin_rss: yes
-          plugin_rss_source: https://news.ycombinator.com/rss
-          plugin_rss_limit: 4
+          # plugin_rss: yes
+          # plugin_rss_source: https://news.ycombinator.com/rss
+          # plugin_rss_limit: 4
 
           # Fortune teller
           # plugin_fortune: yes
