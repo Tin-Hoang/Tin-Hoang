@@ -8,7 +8,11 @@ I'm Tin-Hoang, pursuing MSc at University of Surrey, UK 🇬🇧 | AI researcher
   <img alt="GitHub Breakout" src="images/breakout-light.svg" width="756">
 </picture>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tin-Hoang&color=blue&abbreviated=true&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Tin-Hoang&color=0099cc&abbreviated=true&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tin--hoang--ai-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tin-hoang-ai)
+[![Email](https://img.shields.io/badge/Email-tin.hoang.work%40gmail.com-009999?style=flat-square&logo=gmail&logoColor=white)](mailto:tin.hoang.work@gmail.com)
+[![Email (Cinnamon)](https://img.shields.io/badge/Email%20(Cinnamon)-tin%40cinnamon.is-666699?style=flat-square&logo=gmail&logoColor=white)](mailto:tin@cinnamon.is)
+[![W&B](https://img.shields.io/badge/W%26B-tin--hoang-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)](https://wandb.ai/tin-hoang)
 
 
 # 📃 Publications:
@@ -94,13 +98,6 @@ Dhruvraj Singh Rawat, Enggen Sherpa, Rishikesan Kirupanantha, **Tin Hoang**.
     </td>
   </tr>
 </table>
-
-
-# 📫 How to reach me:
-- **Email:** tin.hoang.work@gmail.com
-- **Email** (for Cinnamon related): tin@cinnamon.is
-- **LinkedIn:** https://www.linkedin.com/in/tin-hoang-ai
-- **W&B:** https://wandb.ai/tin-hoang
 
 # 📊 GitHub Metrics:
 
