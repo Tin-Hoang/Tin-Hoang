@@ -5,7 +5,7 @@ I'm Tin-Hoang, pursuing MSc at University of Surrey, UK 🇬🇧 | AI researcher
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg">
-  <img alt="GitHub Breakout" src="images/breakout-light.svg" width="650">
+  <img alt="GitHub Breakout" src="images/breakout-light.svg" width="756">
 </picture>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tin-Hoang&color=blue&abbreviated=true&style=flat-square)
