@@ -1,19 +1,10 @@
 ### Hi there 👋
 
-<!--
-**Tin-Hoang/Tin-Hoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg">
+  <img alt="GitHub Breakout" src="images/breakout-light.svg">
+</picture>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tin-Hoang&color=blue&abbreviated=true&style=flat)
 
@@ -111,11 +102,5 @@ Dhruvraj Singh Rawat, Enggen Sherpa, Rishikesan Kirupanantha, **Tin Hoang**.
 - **W&B:** https://wandb.ai/tin-hoang
 
 # 📊 GitHub Metrics:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg">
-  <img alt="GitHub Breakout" src="images/breakout-light.svg">
-</picture>
 
 ![Metrics](https://github.com/Tin-Hoang/Tin-Hoang/blob/main/github-metrics.svg)
