@@ -101,4 +101,6 @@ Dhruvraj Singh Rawat, Enggen Sherpa, Rishikesan Kirupanantha, **Tin Hoang**.
 
 # 📊 GitHub Metrics:
 
-![Metrics](https://github.com/Tin-Hoang/Tin-Hoang/blob/main/github-metrics.svg)
+<p align="center">
+  <img src="images/github-metrics.svg" alt="GitHub Metrics" />
+</p>

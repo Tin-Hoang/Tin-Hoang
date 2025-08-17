@@ -17,6 +17,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # Output file
+          filename: images/github-metrics.svg
+
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
@@ -41,6 +44,11 @@ jobs:
           # Stars
           plugin_stars: yes
           plugin_stars_limit: 4
+
+          # Leetcode
+          plugin_leetcode: yes
+          plugin_leetcode_user: Tin-Hoang
+          plugin_leetcode_sections: solved, skills
 
           # Languages used
           # plugin_languages: yes
