@@ -27,7 +27,7 @@ jobs:
           user: Tin-Hoang
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Ho_Chi_Minh
+          config_timezone: Europe/London
           retries: 2
           retries_delay: 300
           use_prebuilt_image: yes # faster execution
@@ -41,14 +41,24 @@ jobs:
           # The lines of code plugin displays the number of lines of code you have added and removed across all of your repositories.
           plugin_lines: yes
 
+          # Traffic
+          plugin_traffic: yes
+
           # Stars
           plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_stars_limit: 3
 
           # Leetcode
           plugin_leetcode: yes
           plugin_leetcode_user: Tin-Hoang
           plugin_leetcode_sections: solved, skills
+          plugin_leetcode_ignored_skills: fundamental
+
+          # Website screenshot
+          plugin_screenshot: yes
+          plugin_screenshot_title: XKCD of the day
+          plugin_screenshot_url: https://xkcd.com
+          plugin_screenshot_selector: "#comic img"
 
           # Languages used
           # plugin_languages: yes
