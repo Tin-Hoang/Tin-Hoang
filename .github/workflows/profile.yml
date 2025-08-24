@@ -3,7 +3,7 @@ name: Metrics
 on:
   # Schedule updates (each day)
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *"
   # schedule: [{cron: "*/5 * * * *"}]
   # Schedule updates (00:30 && 12:30 UTC daily)
   # schedule: [ { cron: "30 0,12 * * *" } ]
@@ -19,6 +19,9 @@ jobs:
         with:
           # Output file
           filename: images/github-metrics.svg
+
+          # Commit message
+          committer_message: "chore: update profile metrics"
 
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
