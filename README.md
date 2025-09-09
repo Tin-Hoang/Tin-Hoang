@@ -46,7 +46,7 @@ Dhruvraj Singh Rawat, Enggen Sherpa, Rishikesan Kirupanantha, **Tin Hoang**.
   <tr>
     <td align="center">
       <a href="https://github.com/Tin-Hoang/fl-adni-classification">
-        <img src="docs/fl-mermaid-flowchart.svg" alt="Federated Learning for Privacy-Preserving Medical AI" width="450"/>
+        <img src="docs/fl-training.jpg" alt="Federated Learning for Privacy-Preserving Medical AI" height="200" style="padding: 5px; background-color: white; border: 1px solid #ccc;"/>
       </a>
       <br>
       <strong>Federated Learning for Privacy-Preserving Medical AI</strong>
