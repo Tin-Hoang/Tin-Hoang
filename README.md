@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tin-Hoang, pursuing MSc at University of Surrey, UK 🇬🇧 | AI researcher at Cinnamon AI, Vietnam 🇻🇳.
+I'm Tin-Hoang | MSc at University of Surrey, UK 🇬🇧 | AI researcher at Cinnamon AI, Vietnam 🇻🇳.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
@@ -50,6 +50,13 @@ Dhruvraj Singh Rawat, Enggen Sherpa, Rishikesan Kirupanantha, **Tin Hoang**.
       </a>
       <br>
       <strong>Federated Learning for Privacy-Preserving Medical AI</strong>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Tin-Hoang/slm-profile-rag">
+        <img src="docs/slm_profile_rag.jpg" alt="RAG Interactive Profile Chatbot" height="200" style="padding: 5px;"/>
+      </a>
+      <br>
+      <strong>RAG Interactive Profile Chatbot</strong>
     </td>
   </tr>
 </table>
