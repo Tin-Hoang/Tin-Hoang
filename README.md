@@ -24,6 +24,10 @@ I'm Tin-Hoang | MSc at University of Surrey, UK 🇬🇧 | AI researcher at Cinn
 Dhruvraj Singh Rawat, Enggen Sherpa, Rishikesan Kirupanantha, **Tin Hoang**.
 "Enhancing Diffusion Face Generation with Contrastive Embeddings and SegFormer Guidance", arXiv preprint 2025, <a href="https://arxiv.org/abs/2508.09847">[arXiv:2508.09847]</a>.
 
+<a id="3">[3]</a>
+**Tin Hoang**.
+"Efficient Deep Learning for Short-Term Solar Irradiance Time Series Forecasting: A Benchmark Study in Ho Chi Minh City", arXiv preprint 2025, <a href="https://arxiv.org/abs/2512.23898">[arXiv:2512.23898]</a>.
+
 # ®️ Patents:
 <a id="1">[1]</a> Chun-Jen Peng, **Huu Tin Hoang**, Hung Tran, Huy Hoang Nguyen.
 "TEXT LINE RECOGNITION APPARATUS, TEXT LINE RECOGNITION METHOD AND PROGRAM", Japan Patent Office, JP-2022160140-A, Filing Date: 06-04-2021.
