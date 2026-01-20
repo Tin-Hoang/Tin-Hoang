@@ -59,10 +59,10 @@ Dhruvraj Singh Rawat, Enggen Sherpa, Rishikesan Kirupanantha, **Tin Hoang**.
     </td>
     <td align="center">
       <a href="https://github.com/Tin-Hoang/sanskrit-vi-translation">
-        <img src="docs/sanskrit-vi-logo.jpeg" alt="Sanskrit-Vi LLM Benchmark" height="200" style="padding: 5px;"/>
+        <img src="docs/sanskrit-vi-logo.jpeg" alt="Sanskrit-Vietnamese LLM Benchmark" height="200" style="padding: 5px;"/>
       </a>
       <br>
-      <strong>Sanskrit-Vi Translation</strong>
+      <strong>Sanskrit-Vietnamese LLM Benchmark</strong>
     </td>
     <td align="center">
       <a href="https://github.com/Tin-Hoang/slm-profile-rag">
