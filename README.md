@@ -2,11 +2,13 @@
 
 I'm Tin-Hoang | MSc at University of Surrey, UK 🇬🇧 | AI researcher at Cinnamon AI, Vietnam 🇻🇳.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg">
-  <img alt="GitHub Breakout" src="images/breakout-light.svg" width="756">
-</picture>
+<a href="https://tin-hoang.uk">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg">
+    <img alt="GitHub Breakout" src="images/breakout-light.svg" width="756">
+  </picture>
+</a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tin-Hoang&color=0099cc&abbreviated=true&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tin--hoang--ai-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tin-hoang-ai)
@@ -54,6 +56,13 @@ Dhruvraj Singh Rawat, Enggen Sherpa, Rishikesan Kirupanantha, **Tin Hoang**.
       </a>
       <br>
       <strong>Federated Learning for Privacy-Preserving Medical AI</strong>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Tin-Hoang/sanskrit-vi-translation">
+        <img src="docs/sanskrit-vi-logo.jpeg" alt="Sanskrit-Vi LLM Benchmark" height="200" style="padding: 5px;"/>
+      </a>
+      <br>
+      <strong>Sanskrit-Vi Translation</strong>
     </td>
     <td align="center">
       <a href="https://github.com/Tin-Hoang/slm-profile-rag">
