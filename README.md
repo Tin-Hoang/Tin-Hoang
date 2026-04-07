@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Tin-Hoang | MSc at University of Surrey, UK 🇬🇧 | AI researcher at Cinnamon AI, Vietnam 🇻🇳.
+I'm Tin-Hoang | AI @ Cinnamon | MSc @ University of Surrey | [www.tin-hoang.ai](https://tin-hoang.ai)
 
-<a href="https://tin-hoang.uk">
+<a href="https://tin-hoang.ai">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg">
